@@ -61,7 +61,8 @@ O conteúdo está dividido em módulos temáticos para facilitar a consulta ráp
 * **01_BASES_E_VARIAVEIS:** Estrutura do bloco, Tipos Nativos e Ancoragem (`%TYPE`, `%ROWTYPE`).
     * `Bloco_Anonimo.sql`
     * `Declaracao_Variaveis.sql`
-    * `Ancoragem_TYPE.sql`
+    * `variavel-rowtype.sql`
+    * `variavel-type.sql`
 * **02_CONTROLE_DE_FLUXO:** Decisão e Repetição (`IF`, `CASE`, diferentes tipos de `LOOP`).
     * `Condicional_IF.sql`
     * `Estrutura_CASE.sql`
