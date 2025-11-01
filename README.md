@@ -10,7 +10,7 @@
 ## 🗺️ Índice de Conteúdo
 
 * Bases e Variáveis ✅
-* Controle de Fluxo
+* Controle de Fluxo ✅
 * Cursores e DML
 * Tratamento de Erros (Exceptions))
 * Subprogramas (Funções e Procedures)
