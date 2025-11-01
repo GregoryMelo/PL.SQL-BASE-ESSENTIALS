@@ -53,3 +53,28 @@ Sinta-se à vontade para sugerir melhorias, correções de bugs ou adicionar exe
 5.  Abra um Pull Request.
 
 ---
+
+## 🌳 Estrutura do Repositório
+
+O conteúdo está dividido em módulos temáticos para facilitar a consulta rápida:
+
+* **01_BASES_E_VARIAVEIS:** Estrutura do bloco, Tipos Nativos e Ancoragem (`%TYPE`, `%ROWTYPE`).
+    * `Bloco_Anonimo.sql`
+    * `Declaracao_Variaveis.sql`
+    * `Ancoragem_TYPE.sql`
+* **02_CONTROLE_DE_FLUXO:** Decisão e Repetição (`IF`, `CASE`, diferentes tipos de `LOOP`).
+    * `Condicional_IF.sql`
+    * `Estrutura_CASE.sql`
+    * `Loops_Basicos.sql`
+* **03_CURSORES_E_DML:** Manipulação de Dados (`INSERT`, `UPDATE`, `DELETE`) e gerenciamento de Cursors.
+    * `DML_Simples.sql`
+    * `Cursor_FOR_LOOP.sql`
+    * `Cursor_Explicito.sql`
+* **04_TRATAMENTO_DE_ERROS:** Gerenciamento de Exceções (`EXCEPTION`) pré-definidas e customizadas.
+    * `Exception_PreDefinida.sql`
+    * `Exception_Customizada.sql`
+* **05_SUBPROGRAMAS:** Reutilização de Código: Criação e uso de Procedures e Functions.
+    * `PROCEDURE_Exemplo.sql`
+    * `FUNCTION_Exemplo.sql`
+
+---
