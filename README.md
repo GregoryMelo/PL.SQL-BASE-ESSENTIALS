@@ -59,23 +59,25 @@ Sinta-se à vontade para sugerir melhorias, correções de bugs ou adicionar exe
 O conteúdo está dividido em módulos temáticos para facilitar a consulta rápida:
 
 * **01_BASES_E_VARIAVEIS:** Estrutura do bloco, Tipos Nativos e Ancoragem (`%TYPE`, `%ROWTYPE`).
-    * `Bloco_Anonimo.sql`
-    * `Declaracao_Variaveis.sql`
-    * `variavel-rowtype.sql`
-    * `variavel-type.sql`
+    * `Bloco_Anonimo.sql` (Finalizado)
+    * `Declaracao_Variaveis.sql` (Finalizado)
+    * `variavel-rowtype.sql` (Finalizado)
+    * `variavel-type.sql` (Finalizado)
 * **02_CONTROLE_DE_FLUXO:** Decisão e Repetição (`IF`, `CASE`, diferentes tipos de `LOOP`).
-    * `Condicional_IF.sql`
-    * `Estrutura_CASE.sql`
-    * `Loops_Basicos.sql`
+    * `Condicional_IF.sql` (Finalizado)
+    * `Estrutura_CASE.sql` (Finalizado)
+    * `Loops_Basicos.sql` (Finalizado)
 * **03_CURSORES_E_DML:** Manipulação de Dados (`INSERT`, `UPDATE`, `DELETE`) e gerenciamento de Cursors.
-    * `DML_Simples.sql`
-    * `Cursor_FOR_LOOP.sql`
-    * `Cursor_Explicito.sql`
+    * `DML_Simples.sql` (Aprendendo...)
+    * `Cursor_FOR_LOOP.sql` (Aprendendo...)
+    * `Cursor_Explicito.sql` (Aprendendo...)
 * **04_TRATAMENTO_DE_ERROS:** Gerenciamento de Exceções (`EXCEPTION`) pré-definidas e customizadas.
-    * `Exception_PreDefinida.sql`
-    * `Exception_Customizada.sql`
+    * `Exception_PreDefinida.sql` (Pendente)
+    * `Exception_Customizada.sql` (Pendente)
 * **05_SUBPROGRAMAS:** Reutilização de Código: Criação e uso de Procedures e Functions.
-    * `PROCEDURE_Exemplo.sql`
-    * `FUNCTION_Exemplo.sql`
+    * `PROCEDURE_Exemplo.sql` (Pendente)
+    * `FUNCTION_Exemplo.sql` (Pendente)
 
 ---
+
+📘 Ainda em desenvolvimento | Leonardo Gregori — Data Science Student
