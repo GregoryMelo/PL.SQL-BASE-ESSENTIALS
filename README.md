@@ -14,8 +14,6 @@
 * Cursores e DML
 * Tratamento de Erros (Exceptions))
 * Subprogramas (Funções e Procedures)
-* Como Usar
-* Contribuições
 
 ---
 
@@ -80,4 +78,4 @@ O conteúdo está dividido em módulos temáticos para facilitar a consulta ráp
 
 ---
 
-📘 Ainda em desenvolvimento | Leonardo Gregori — Data Science Student
+## 📘 Ainda em desenvolvimento | Leonardo Gregori — Data Science Student
