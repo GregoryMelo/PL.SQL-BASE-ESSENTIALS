@@ -7,7 +7,7 @@
 
 ---
 
-## 🗺️ Índice de Conteúdo
+## Índice de Conteúdo
 
 * Bases e Variáveis ✅
 * Controle de Fluxo ✅
@@ -27,7 +27,7 @@ Nesta seção, você encontrará a estrutura básica de um bloco PL/SQL e como d
 | Declaração de Variaveis| `Declaracao_Variaveis.sql` | Como criar e declarar variaveis no codigo. |
 | `%TYPE` e `%ROWTYPE` | `variavel-rowtype.sql` e `variavel-type.sql` | Como herdar o tipo de dados de colunas de tabelas. |
 
-## 🚀 Como Usar
+## Como Usar
 
 1.  **Clone o Repositório:**
     ```bash
@@ -40,7 +40,7 @@ Nesta seção, você encontrará a estrutura básica de um bloco PL/SQL e como d
         SET SERVEROUTPUT ON;
         ```
 
-## 🤝 Contribuições
+## Contribuições
 
 Sinta-se à vontade para sugerir melhorias, correções de bugs ou adicionar exemplos mais otimizados!
 
@@ -52,7 +52,7 @@ Sinta-se à vontade para sugerir melhorias, correções de bugs ou adicionar exe
 
 ---
 
-## 🌳 Estrutura do Repositório
+## Estrutura do Repositório
 
 O conteúdo está dividido em módulos temáticos para facilitar a consulta rápida:
 
