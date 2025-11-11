@@ -66,12 +66,12 @@ O conteúdo está dividido em módulos temáticos para facilitar a consulta ráp
     * `Estrutura_CASE.sql` (Finalizado)
     * `Loops_Basicos.sql` (Finalizado)
 * **03_CURSORES_E_DML:** Manipulação de Dados (`INSERT`, `UPDATE`, `DELETE`) e gerenciamento de Cursors.
-    * `DML_Simples.sql` (Aprendendo...)
-    * `Cursor_FOR_LOOP.sql` (Aprendendo...)
-    * `Cursor_Explicito.sql` (Aprendendo...)
+    * `DML_Simples.sql` (Finalizado)
+    * `Cursor_FOR_LOOP.sql` (Finalizado)
+    * `Cursor_Explicito.sql` (Finalizado)
 * **04_TRATAMENTO_DE_ERROS:** Gerenciamento de Exceções (`EXCEPTION`) pré-definidas e customizadas.
-    * `Exception_PreDefinida.sql` (Pendente)
-    * `Exception_Customizada.sql` (Pendente)
+    * `Exception_PreDefinida.sql` (Aprendendo...)
+    * `Exception_Customizada.sql` (Aprendendo...)
 * **05_SUBPROGRAMAS:** Reutilização de Código: Criação e uso de Procedures e Functions.
     * `PROCEDURE_Exemplo.sql` (Pendente)
     * `FUNCTION_Exemplo.sql` (Pendente)
