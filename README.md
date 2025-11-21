@@ -12,7 +12,7 @@
 * Bases e Variáveis ✅
 * Controle de Fluxo ✅
 * Cursores e DML ✅
-* Tratamento de Erros (Exceptions)) ✅
+* Tratamento de Erros (Exceptions) ✅
 * Subprogramas (Funções e Procedures)
 
 ---
