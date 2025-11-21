@@ -12,7 +12,7 @@
 * Bases e Variáveis ✅
 * Controle de Fluxo ✅
 * Cursores e DML ✅
-* Tratamento de Erros (Exceptions))
+* Tratamento de Erros (Exceptions)) ✅
 * Subprogramas (Funções e Procedures)
 
 ---
@@ -70,11 +70,11 @@ O conteúdo está dividido em módulos temáticos para facilitar a consulta ráp
     * `Cursor_FOR_LOOP.sql` (Finalizado)
     * `Cursor_Explicito.sql` (Finalizado)
 * **04_TRATAMENTO_DE_ERROS:** Gerenciamento de Exceções (`EXCEPTION`) pré-definidas e customizadas.
-    * `Exception_PreDefinida.sql` (Aprendendo...)
-    * `Exception_Customizada.sql` (Aprendendo...)
+    * `Exception_PreDefinida.sql` (Finalizado)
+    * `Exception_Customizada.sql` (Finalizado)
 * **05_SUBPROGRAMAS:** Reutilização de Código: Criação e uso de Procedures e Functions.
-    * `PROCEDURE_Exemplo.sql` (Pendente)
-    * `FUNCTION_Exemplo.sql` (Pendente)
+    * `PROCEDURE_Exemplo.sql` (Aprendendo...)
+    * `FUNCTION_Exemplo.sql` (Aprendendo...)
 
 ---
 
