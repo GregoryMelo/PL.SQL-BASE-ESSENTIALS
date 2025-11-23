@@ -1,6 +1,6 @@
 # 📚 PL/SQL - Bases Essenciais para Consulta
 
-[![Badge de Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellowgreen)](STATUS)
+[![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)](CONCLUIDO)
 [![Badge de Linguagem](https://img.shields.io/badge/Linguagem-PL%2FSQL-blue)](LINGUAGEM)
 
 > Repositório de estudo e consulta rápida contendo os principais fundamentos da linguagem PL/SQL (Procedural Language / SQL) do Oracle Database. Este material é ideal para iniciantes e como referência de sintaxe para desenvolvedores.
@@ -13,7 +13,7 @@
 * Controle de Fluxo ✅
 * Cursores e DML ✅
 * Tratamento de Erros (Exceptions) ✅
-* Subprogramas (Funções e Procedures)
+* Subprogramas (Funções e Procedures) ✅
 
 ---
 
@@ -73,9 +73,9 @@ O conteúdo está dividido em módulos temáticos para facilitar a consulta ráp
     * `Exception_PreDefinida.sql` (Finalizado)
     * `Exception_Customizada.sql` (Finalizado)
 * **05_SUBPROGRAMAS:** Reutilização de Código: Criação e uso de Procedures e Functions.
-    * `PROCEDURE_Exemplo.sql` (Aprendendo...)
-    * `FUNCTION_Exemplo.sql` (Aprendendo...)
+    * `PROCEDURE_Exemplo.sql` (Finalizado)
+    * `FUNCTION_Exemplo.sql` (Finalizado)
 
 ---
 
-## 📘 Ainda em desenvolvimento | Leonardo Gregori — Data Science Student
+## 📘 Concluido | Leonardo Gregori — Data Science Student
