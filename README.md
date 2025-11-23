@@ -17,16 +17,6 @@
 
 ---
 
-## 1. Bases e Variáveis (Blocos de Código e Declarações)
-
-Nesta seção, você encontrará a estrutura básica de um bloco PL/SQL e como declarar variáveis, incluindo o uso inteligente de ancoragem.
-
-| Conceito | Arquivo | Descrição |
-| :--- | :--- | :--- |
-| Bloco Anônimo | `Bloco_Anonimo.sql` | Estrutura `DECLARE...BEGIN...END;` e uso de `DBMS_OUTPUT`. |
-| Declaração de Variaveis| `Declaracao_Variaveis.sql` | Como criar e declarar variaveis no codigo. |
-| `%TYPE` e `%ROWTYPE` | `variavel-rowtype.sql` e `variavel-type.sql` | Como herdar o tipo de dados de colunas de tabelas. |
-
 ## Como Usar
 
 1.  **Clone o Repositório:**
@@ -35,7 +25,7 @@ Nesta seção, você encontrará a estrutura básica de um bloco PL/SQL e como d
     ```
 2.  **Execute no SQL Developer/SQL*Plus:**
     * Abra o arquivo `.sql` desejado na sua ferramenta Oracle (SQL Developer, SQLcl, etc.).
-    * Lembre-se de ativar a saída do servidor antes de executar blocos PL/SQL que usam `DBMS_OUTPUT`:
+    * Lembre-se de ativar a saída do servidor antes de executar blocos PL/SQL que usam `DBMS_OUTPUT` caso algum codigo não possua:
         ```sql
         SET SERVEROUTPUT ON;
         ```
@@ -56,25 +46,29 @@ Sinta-se à vontade para sugerir melhorias, correções de bugs ou adicionar exe
 
 O conteúdo está dividido em módulos temáticos para facilitar a consulta rápida:
 
-* **01_BASES_E_VARIAVEIS:** Estrutura do bloco, Tipos Nativos e Ancoragem (`%TYPE`, `%ROWTYPE`).
-    * `Bloco_Anonimo.sql` (Finalizado)
-    * `Declaracao_Variaveis.sql` (Finalizado)
-    * `variavel-rowtype.sql` (Finalizado)
-    * `variavel-type.sql` (Finalizado)
-* **02_CONTROLE_DE_FLUXO:** Decisão e Repetição (`IF`, `CASE`, diferentes tipos de `LOOP`).
-    * `Condicional_IF.sql` (Finalizado)
-    * `Estrutura_CASE.sql` (Finalizado)
-    * `Loops_Basicos.sql` (Finalizado)
-* **03_CURSORES_E_DML:** Manipulação de Dados (`INSERT`, `UPDATE`, `DELETE`) e gerenciamento de Cursors.
-    * `DML_Simples.sql` (Finalizado)
-    * `Cursor_FOR_LOOP.sql` (Finalizado)
-    * `Cursor_Explicito.sql` (Finalizado)
-* **04_TRATAMENTO_DE_ERROS:** Gerenciamento de Exceções (`EXCEPTION`) pré-definidas e customizadas.
-    * `Exception_PreDefinida.sql` (Finalizado)
-    * `Exception_Customizada.sql` (Finalizado)
-* **05_SUBPROGRAMAS:** Reutilização de Código: Criação e uso de Procedures e Functions.
-    * `PROCEDURE_Exemplo.sql` (Finalizado)
-    * `FUNCTION_Exemplo.sql` (Finalizado)
+```
+📦 PLSQL-BASES
+ ┣ 📂 01_BASES_E_VARIAVEIS
+ │  ┣ 📜 Bloco_Anonimo.sql
+ │  ┣ 📜 Declaracao_Variaveis.sql
+ │  ┣ 📜 variavel-type.sql
+ │  ┗ 📜 variavel-rowtype.sql
+ ┣ 📂 02_CONTROLE_DE_FLUXO
+ │  ┣ 📜 Condicional_IF.sql
+ │  ┣ 📜 Estrutura_CASE.sql
+ │  ┗ 📜 Loops_Basicos.sql
+ ┣ 📂 03_CURSORES_E_DML
+ │  ┣ 📜 DML_Simples.sql
+ │  ┣ 📜 Cursor_FOR_LOOP.sql
+ │  ┗ 📜 Cursor_Explicito.sql
+ ┣ 📂 04_TRATAMENTO_DE_ERROS
+ │  ┣ 📜 Exception_PreDefinida.sql
+ │  ┗ 📜 Exception_Customizada.sql
+ ┣ 📂 05_SUBPROGRAMAS
+ │  ┣ 📜 PROCEDURE_Exemplo.sql
+ │  ┗ 📜 FUNCTION_Exemplo.sql
+ ┗ 📜 README.md
+```
 
 ---
 
